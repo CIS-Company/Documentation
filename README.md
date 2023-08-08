@@ -9,7 +9,8 @@ Compliance documentation should be developed to demonstrate that the system meet
 This may include documentation showing compliance with PCI, GDPR, or other industry-specific regulations. (Pick one compliance framework)
 
 
- link the Team Agreement doc, System Selection doc, topologies/visuals and the slideshow.
+ link the Team Agreement doc,
+ the slideshow.
 
 Create a basic README.md file within this repo that contains the names of all the members (your GitHub and LinkedIn profiles) as well as a description of the project.
 
